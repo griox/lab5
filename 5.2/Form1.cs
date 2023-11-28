@@ -20,7 +20,7 @@ namespace _5._2
         {
             if(!double.TryParse(textBox1.Text, out double a))
             {
-                MessageBox.Show("he thong khong hop le ");
+                MessageBox.Show("khong hop le ");
                 return;
             }
         }
