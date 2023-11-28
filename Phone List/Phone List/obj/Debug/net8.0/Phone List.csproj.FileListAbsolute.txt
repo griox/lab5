@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\Lab5\Phone List\Phone List\obj\Debug\net8.0\Phone List.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Lab5\Phone List\Phone List\obj\Debug\net8.0\Phone List.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Lab5\Phone List\Phone List\obj\Debug\net8.0\Phone List.AssemblyInfo.cs
+\\Mac\Home\Documents\Lab5\Phone List\Phone List\obj\Debug\net8.0\Phone List.csproj.CoreCompileInputs.cache
